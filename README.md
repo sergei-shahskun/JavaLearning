@@ -1,2 +1,2 @@
 # JavaLearning
-Different tasks connected with learning Java
+Different tasks connected with learning Java //
